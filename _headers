@@ -46,12 +46,6 @@
   Link: </app-24e86174b3a7e2c77751.js>; rel=preload; as=script
   Link: </0-3972dd394a839c58bdf3.js>; rel=preload; as=script
   Link: </component---src-templates-post-js-830c8352db85dbcf445c.js>; rel=preload; as=script
-/react-live-code-example
-  Link: </webpack-runtime-739b9cdbb452b4feac86.js>; rel=preload; as=script
-  Link: </styles-6d05393073627ea98ec5.js>; rel=preload; as=script
-  Link: </app-24e86174b3a7e2c77751.js>; rel=preload; as=script
-  Link: </0-3972dd394a839c58bdf3.js>; rel=preload; as=script
-  Link: </component---src-templates-post-js-830c8352db85dbcf445c.js>; rel=preload; as=script
 /categories/jest
   Link: </webpack-runtime-739b9cdbb452b4feac86.js>; rel=preload; as=script
   Link: </styles-6d05393073627ea98ec5.js>; rel=preload; as=script
@@ -59,18 +53,6 @@
   Link: </0-3972dd394a839c58bdf3.js>; rel=preload; as=script
   Link: </component---src-templates-category-js-bba40cfd5fb9f011664d.js>; rel=preload; as=script
 /categories/type-script
-  Link: </webpack-runtime-739b9cdbb452b4feac86.js>; rel=preload; as=script
-  Link: </styles-6d05393073627ea98ec5.js>; rel=preload; as=script
-  Link: </app-24e86174b3a7e2c77751.js>; rel=preload; as=script
-  Link: </0-3972dd394a839c58bdf3.js>; rel=preload; as=script
-  Link: </component---src-templates-category-js-bba40cfd5fb9f011664d.js>; rel=preload; as=script
-/categories/coding
-  Link: </webpack-runtime-739b9cdbb452b4feac86.js>; rel=preload; as=script
-  Link: </styles-6d05393073627ea98ec5.js>; rel=preload; as=script
-  Link: </app-24e86174b3a7e2c77751.js>; rel=preload; as=script
-  Link: </0-3972dd394a839c58bdf3.js>; rel=preload; as=script
-  Link: </component---src-templates-category-js-bba40cfd5fb9f011664d.js>; rel=preload; as=script
-/categories/help
   Link: </webpack-runtime-739b9cdbb452b4feac86.js>; rel=preload; as=script
   Link: </styles-6d05393073627ea98ec5.js>; rel=preload; as=script
   Link: </app-24e86174b3a7e2c77751.js>; rel=preload; as=script
