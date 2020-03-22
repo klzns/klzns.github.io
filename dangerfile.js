@@ -1,3 +1,3 @@
-import spellcheck from "danger-plugin-spellcheck";
+const spellcheck = require("danger-plugin-spellcheck");
 
 spellcheck();
