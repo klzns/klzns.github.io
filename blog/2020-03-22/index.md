@@ -27,7 +27,7 @@ if (!hasChangelog && !isTrivial) {
 }
 ```
 
-Lastly, create a workflow file at `.github/workflow/` and give it any name, example: `cy.yml`:
+Lastly, creatte a workflow file at `.github/workflow/` and give it any name, example: `cy.yml`:
 
 ```yml
 name: CI Pull Requests
