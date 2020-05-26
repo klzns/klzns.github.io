@@ -165,6 +165,7 @@ const SEO = props => {
       <meta name="twitter:description" content={description} />
       <meta name="twitter:image" content={image} />
       <meta name="twitter:image:alt" content={description} />
+      <meta name="google-site-verification" content="UcyeWMzT7SYNA12m0JoQxB5mGqNq2hYuSSGmmBtGpZU" />
       {/* Insert schema.org data conditionally (webpage/article) + everytime (breadcrumbs) */}
       {!article && <script type="application/ld+json">{JSON.stringify(schemaOrgWebPage)}</script>}
       {article && <script type="application/ld+json">{JSON.stringify(schemaArticle)}</script>}
